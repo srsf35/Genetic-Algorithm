@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\srs68\Desktop\Project2\Genetic Algorithm\Genetic Algorithm\Source.cpp(48,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\srs68\Desktop\Project2\Genetic Algorithm\Genetic Algorithm\Source.cpp(267,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srs68\Desktop\Project2\Genetic Algorithm\Genetic Algorithm\Source.cpp(323,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srs68\Desktop\Project2\Genetic Algorithm\Genetic Algorithm\Source.cpp(333,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srs68\Desktop\Project2\Genetic Algorithm\Genetic Algorithm\Source.cpp(345,9): warning C4101: 'g': unreferenced local variable
+  Genetic Algorithm.vcxproj -> C:\Users\srs68\Desktop\Project2\Genetic Algorithm\Debug\Genetic Algorithm.exe

@@ -1,0 +1,57 @@
+Schedule fitness: 8.6
+------------
+Course: CS101A
+Instructor: Zein el Din
+Haag 201
+Time: 12
+------------
+Course: CS101B
+Instructor: Zein el Din
+Haag 201
+Time: 14
+------------
+Course: CS191A
+Instructor: Gladbach
+Royall 201
+Time: 11
+------------
+Course: CS191B
+Instructor: Hare
+Haag 201
+Time: 11
+------------
+Course: CS201
+Instructor: Gladbach
+Haag 201
+Time: 15
+------------
+Course: CS291
+Instructor: Song
+Royall 206
+Time: 12
+------------
+Course: CS303
+Instructor: Hare
+Bloch 119
+Time: 14
+------------
+Course: CS304
+Instructor: Xu
+Bloch 119
+Time: 13
+------------
+Course: CS394
+Instructor: Song
+Royall 201
+Time: 14
+------------
+Course: CS449
+Instructor: Song
+Bloch 119
+Time: 15
+------------
+Course: CS451
+Instructor: Xu
+FH 310
+Time: 15
+

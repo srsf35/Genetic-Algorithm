@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\srs68\Desktop\Project2\Genetic Algorithm\Genetic Algorithm\Source.cpp(45,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\srs68\Desktop\Project2\Genetic Algorithm\Genetic Algorithm\Source.cpp(235,6): error C2601: 'mate': local function definitions are illegal
+C:\Users\srs68\Desktop\Project2\Genetic Algorithm\Genetic Algorithm\Source.cpp(62): message : this line contains a '{' which has not yet been matched
+C:\Users\srs68\Desktop\Project2\Genetic Algorithm\Genetic Algorithm\Source.cpp(299,6): error C2601: 'generation': local function definitions are illegal
+C:\Users\srs68\Desktop\Project2\Genetic Algorithm\Genetic Algorithm\Source.cpp(62): message : this line contains a '{' which has not yet been matched
+C:\Users\srs68\Desktop\Project2\Genetic Algorithm\Genetic Algorithm\Source.cpp(307,8): error C2601: 'calcGenFitness': local function definitions are illegal
+C:\Users\srs68\Desktop\Project2\Genetic Algorithm\Genetic Algorithm\Source.cpp(62): message : this line contains a '{' which has not yet been matched
+C:\Users\srs68\Desktop\Project2\Genetic Algorithm\Genetic Algorithm\Source.cpp(319,5): error C2601: 'main': local function definitions are illegal
+C:\Users\srs68\Desktop\Project2\Genetic Algorithm\Genetic Algorithm\Source.cpp(62): message : this line contains a '{' which has not yet been matched
+C:\Users\srs68\Desktop\Project2\Genetic Algorithm\Genetic Algorithm\Source.cpp(62): fatal error C1075: '{': no matching token found
